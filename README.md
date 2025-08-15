@@ -1,22 +1,23 @@
-5-SIMPLE-CSS-PROJECTS
+# 5-SIMPLE-CSS-PROJECTS
+
 CSS simple projects
 
-Color Palette Generator (Static)
-Create a page showing different color swatches with their hex codes.
-Use CSS for layout, hover effects, and text styling.
+1. Button Styles Showcase
+   - Create several buttons with hover/active/focus states.
+   - Practice borders, shadows, transitions, and :hover/:focus.
 
-Animated Loading Spinner
-Design a circular or bouncing dot animation using only CSS @keyframes.
-Experiment with colors, speeds, and animation delays.
+2. Responsive Card Grid
+   - Build a grid of “cards” with images and text.
+   - Use CSS Grid/Flexbox and media queries for responsiveness.
 
-Responsive Navigation Bar
-Build a top navigation bar that turns into a hamburger menu on small screens.
-Use CSS Flexbox/Grid and media queries.
+3. Navigation Bar
+   - Make a horizontal navbar with a hover underline or highlight.
+   - Use flexbox alignment and a sticky or fixed position option.
 
-Pricing Table
-Make a section with different pricing plans.
-Highlight one plan with a different background or border style.
+4. Pricing Table
+   - Design three pricing columns with a “featured” plan.
+   - Practice typography, spacing, borders, and subtle hover effects.
 
-Image Hover Effects
-Create effects like zoom, blur, or text overlays when an image is hovered.
-Use CSS transitions and :hover pseudo-class.
+5. Hero Section
+   - Create a full-width hero with heading, subtext, and a CTA button.
+   - Use background images/gradients, layout, and responsive typography.
